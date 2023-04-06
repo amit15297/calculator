@@ -1,0 +1,7 @@
+clear = document.getElementById("AC")
+percentage = document.getElementById("percent")
+divide = document.getElementById("divide")
+multiply = document.getElementById("multiply")
+sub = document.getElementById("sub")
+add = document.getElementById("add")
+display = document.getElementById("display")
